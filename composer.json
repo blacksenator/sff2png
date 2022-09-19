@@ -1,0 +1,23 @@
+{
+    "name": "blacksenator/sff2png",
+    "type": "library",
+    "keywords": ["SFF", "Structured Fax File"],
+    "homepage": "https://github.com/blacksenator/sff2png",
+    "description": "Converting structured FAX file into one or more PNG ",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Volker Püschel",
+            "email": "knuffy@anasco.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "blacksenator\\sff2png\\": "src/"
+        }
+    }
+}
