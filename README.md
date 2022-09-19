@@ -22,7 +22,7 @@ You can install it through Composer:
 or
 
 ```console
-git clone https://github.com/blacksenator/fritzsoap.git
+git clone https://github.com/blacksenator/sff2png.git
 ```
 
 ## Usage
